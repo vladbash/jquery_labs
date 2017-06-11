@@ -1,0 +1,6 @@
+div#plain-block {
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+    color: white;
+}

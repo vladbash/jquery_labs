@@ -27,4 +27,6 @@ $(document).ready(function() {
         $("#paragraph4").css("font-weight", "bold");
         $("#paragraph4").css("border", "4px solid black");
     });
+
+    $("#plain-block").text("Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates unde ipsum sit necessitatibus doloribus fuga officia laudantium voluptatibus ea eius velit molestiae eaque fugit ex perspiciatis, earum quos itaque rem.");
 });
