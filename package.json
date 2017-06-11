@@ -1,0 +1,24 @@
+{
+  "name": "jquery_labs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladb95/jquery_labs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladb95/jquery_labs/issues"
+  },
+  "homepage": "https://github.com/vladb95/jquery_labs#readme",
+  "devDependencies": {
+    "express": "^4.15.3",
+    "serve-static": "^1.12.3"
+  }
+}
